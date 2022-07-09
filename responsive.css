@@ -1,0 +1,38 @@
+@media (max-width: 800px) {
+
+    .card-section {
+        width: 350px;
+        flex-direction: column;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 75px;
+        margin-bottom: 75px;
+    }
+    .card-left {
+        width: 100%;
+    }
+    .name {
+        justify-content: center;
+    }
+    .cube-img {
+        margin-right: 15px;
+    }
+    .card-center {
+        width: 100%;
+        border: none;
+        border-top: 2px solid white;
+        border-bottom: 2px solid white;
+        padding-top: 20px;
+        padding-bottom: 50px;
+
+    }
+    .card-right {
+        display: 100%;
+        width: 300px;
+        margin-bottom: 50px;
+    }
+    .newsletter input {
+        width: 100%;
+    }
+
+}
